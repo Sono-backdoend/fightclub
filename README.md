@@ -6,8 +6,11 @@ Implantação do projeto desenvolvido no Mensal 1 em um cluster Kubernetes local
 - **Backend:** Next.js (API) com Prisma, responsável pela autenticação e pelo acesso aos dados.
 - **Banco de dados:** PostgreSQL 16, com os dados persistidos em um volume.
 
-**Integrantes:** <!-- preencher com os nomes do grupo -->
-
+**Integrantes:** 
+- Kauã
+- Wellington
+- Nicolas
+- Joshua
 ---
 
 ## Arquitetura
