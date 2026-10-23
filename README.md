@@ -104,7 +104,7 @@ O `kubectl` não precisa ser instalado separadamente: o Minikube fornece um comp
 ### 1. Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone --recurse-submodules https://github.com/Sono-backdoend/fightclub.git fightclub
 cd fightclub
 ```
 
